@@ -13,8 +13,9 @@
 
 Aligner AI is a cutting-edge web application that leverages **Large Language Models** and **AI** to intelligently process, analyze, and align documents. It supports multiple document formats including PDF, Word documents, and more, making it easy to work with various file types.
 
-**🌐 Live Demo:** [https://aligner-ai.vercel.app](https://aligner-ai.vercel.app)
+### 🌐 <a href="https://aligner-ai.vercel.app/">Live Demo</a>
 
+<br>
 ## ✨ Key Features
 
 - 📄 **Multi-format Document Support** - Process PDF, Word, and other document types
