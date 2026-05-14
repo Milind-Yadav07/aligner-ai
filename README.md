@@ -2,12 +2,12 @@
 
 > Intelligent document alignment and processing powered by AI
 
-![Next.js](https://img.shields.io/badge/Next.js-16.2.4-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-19.2.4-61DAFB?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-06B6D4?style=flat-square&logo=tailwindcss)
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-0.24.1-EA4335?style=flat-square&logo=google)
-![LangChain](https://img.shields.io/badge/LangChain-1.3.5-00A67E?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript\-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-EA4335?style=flat-square&logo=google)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
 
 ## 📋 Overview
 
